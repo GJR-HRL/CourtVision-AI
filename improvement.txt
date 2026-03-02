@@ -1,0 +1,4 @@
+- Add multi-threading where possible for calculating individual stats data 
+and all of the plotters can work separately in different threads. 
+- Good for any video and any team (zero shoot classification and colors).
+- create whole service with frontend as a basketball analysis software.
